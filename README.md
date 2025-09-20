@@ -1,7 +1,5 @@
 # Hi, I'm Ruchi Giradkar 👋  
 
-**Cybersecurity Specialist | VAPT & Forensics | Security Architecture**  
-
 Passionate about **IT Cybersecurity**, with a focus on protecting systems through end-to-end security practices.  
 Completed a **Capstone Project on Vulnerability Assessment, Penetration Testing (VAPT), and Digital Forensics**, where I identified critical risks, exploited real-world vulnerabilities, and recovered hidden forensic evidence to demonstrate complete attack-to-investigation coverage.  
 Gained hands-on experience at **Continental Automotive**, applying **ISO/SAE 21434** and **TARA methodology** to secure automotive systems.  
