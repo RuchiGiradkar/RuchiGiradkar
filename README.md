@@ -10,19 +10,6 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 
 ---
 
-## 🌟 Career Highlights  
-
-- ![Capstone](https://img.shields.io/badge/-Capstone%20Project-2E86C1?logo=github&logoColor=white)  
-  Conducted **VAPT & Digital Forensics** project, identifying 58 vulnerabilities, exploiting critical risks, and recovering hidden forensic evidence.  
-
-- ![Continental](https://img.shields.io/badge/-Continental%20Automotive-FFCC00?logo=car&logoColor=black)  
-  Applied **ISO/SAE 21434** and **TARA methodology** to secure automotive systems against cyber threats.  
-
-- ![Bosch](https://img.shields.io/badge/-Bosch-EA0016?logo=bosch&logoColor=white)  
-  Completed **Master’s thesis**: Developed a **Digital Twin–based Intrusion Detection System** for Industry 4.0 connected sensors.  
-
----
-
 ## 🔐 Skills  
 ![VAPT](https://img.shields.io/badge/-VAPT-blue?logo=kalilinux&logoColor=white)  
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-8A2BE2?logo=gnu-bash&logoColor=white)  
@@ -66,4 +53,4 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 ---
 
 ## 📫 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchi%20Giradkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchi-giradkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchi%20Giradkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchi-giradkar/) 
