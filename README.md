@@ -66,5 +66,4 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 ---
 
 ## 📫 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchi%20Giradkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchi-giradkar/)  
-📧 Email: *[your email here]*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchi%20Giradkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchi-giradkar/)
