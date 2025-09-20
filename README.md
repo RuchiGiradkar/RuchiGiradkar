@@ -9,6 +9,32 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 ---
 
 ## 🔐 Skills  
+
+## 🛠️ Languages and Tools  
+
+<p align="left">
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+
+  <!-- Platforms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+
+  <!-- Tools (custom logos via shields.io if not in devicon) -->
+  <img src="https://img.shields.io/badge/-Nmap-00457C?logo=gnu-bash&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/-Metasploit-2E86C1?logo=kalilinux&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/-Hydra-000000?logo=gnu-bash&logoColor=white" alt="Hydra"/>
+  <img src="https://img.shields.io/badge/-OpenVAS-3DDC84?logo=linux&logoColor=white" alt="OpenVAS"/>
+  <img src="https://img.shields.io/badge/-DVWA-6C3483?logo=php&logoColor=white" alt="DVWA"/>
+  <img src="https://img.shields.io/badge/-Autopsy-FF8C00?logo=linux&logoColor=white" alt="Autopsy"/>
+</p>
+
+
+--
 ![VAPT](https://img.shields.io/badge/-VAPT-blue?logo=kalilinux&logoColor=white)  
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-8A2BE2?logo=gnu-bash&logoColor=white)  
 ![Incident Response](https://img.shields.io/badge/-Incident%20Response-darkred?logo=security&logoColor=white)  
