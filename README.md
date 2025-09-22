@@ -1,5 +1,7 @@
 # Hi, I'm Ruchi Giradkar 👋  
 
+**Cybersecurity Specialist | VAPT & Forensics | Security Architecture**  
+
 Passionate about **IT Cybersecurity**, with a focus on protecting systems through end-to-end security practices.  
 Completed a **Capstone Project on Vulnerability Assessment, Penetration Testing (VAPT), and Digital Forensics**, where I identified critical risks, exploited real-world vulnerabilities, and recovered hidden forensic evidence to demonstrate complete attack-to-investigation coverage.  
 Gained hands-on experience at **Continental Automotive**, applying **ISO/SAE 21434** and **TARA methodology** to secure automotive systems.  
@@ -10,28 +12,26 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 
 ## 🔐 Skills  
 
-![VAPT](https://img.shields.io/badge/-VAPT-blue?logo=kalilinux&logoColor=white)  
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-8A2BE2?logo=gnu-bash&logoColor=white)  
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-darkred?logo=security&logoColor=white)  
+### Security & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/OpenVAS-3DDC84?style=for-the-badge&logo=linux&logoColor=white" alt="OpenVAS"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E86C1?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Hydra"/>
+  <img src="https://img.shields.io/badge/DVWA-6C3483?style=for-the-badge&logo=php&logoColor=white" alt="DVWA"/>
+  <img src="https://img.shields.io/badge/Autopsy-FF8C00?style=for-the-badge&logo=linux&logoColor=white" alt="Autopsy"/>
+</p>
 
-**Tools:**  
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?logo=gnu-bash&logoColor=white)  
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-3DDC84?logo=linux&logoColor=white)  
-![Hydra](https://img.shields.io/badge/-Hydra-000000?logo=gnu-bash&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-2E86C1?logo=kalilinux&logoColor=white)  
-![DVWA](https://img.shields.io/badge/-DVWA-6C3483?logo=php&logoColor=white)  
-![Autopsy](https://img.shields.io/badge/-Autopsy-FF8C00?logo=linux&logoColor=white)  
-
-**Programming:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=databricks&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
-
-**Platforms:**  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+### Programming  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+</p>
 
 ---
 
@@ -52,4 +52,5 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 ---
 
 ## 📫 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchi%20Giradkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchi-giradkar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchi%20Giradkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchi-giradkar/)  
+ 
