@@ -1,7 +1,5 @@
 # Hi, I'm Ruchi Giradkar
 
-Cybersecurity Specialist | VAPT & Forensics | Security Architecture
-
 I’m passionate about IT cybersecurity and protecting systems end-to-end.  
 My capstone project covered Vulnerability Assessment, Penetration Testing (VAPT), and Digital Forensics—identifying critical risks, safely exploiting real-world vulnerabilities, and recovering hidden evidence to demonstrate a complete attack-to-investigation cycle.
 
