@@ -18,7 +18,7 @@ My capstone project covered Vulnerability Assessment, Penetration Testing (VAPT)
 - Threat Analysis & Risk Assessment (TARA), Security Architecture, Privacy & Compliance
 
 **Security Frameworks**
-- ISO/SAE 21434, ISO 27001, NIST, CIS Controls, GDPR, UN ECE R155
+- ISO/SAE 21434, ISO 27001, NIST, UN ECE R155
 
 **Programming & Scripting**
 - Python, Bash/Shell, Java, JavaScript, SQL, HTML/CSS, JSP
@@ -39,7 +39,7 @@ My capstone project covered Vulnerability Assessment, Penetration Testing (VAPT)
 ## Certifications
 - CompTIA A+
 - CompTIA Security+
-- Embedded System Security — Riscure Academy
+- Embedded System Security - Riscure Academy
 - CompTIA CySA+ (in progress)
 
 ---
