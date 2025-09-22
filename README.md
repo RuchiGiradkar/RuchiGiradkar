@@ -38,7 +38,7 @@ Currently expanding expertise in **IT Cybersecurity, SOC Operations, SIEM Tools,
 ## 📜 Certifications  
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D25?logo=comptia&logoColor=white)  
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?logo=comptia&logoColor=white)  
-![Embedded System Security](https://img.shields.io/badge/Embedded-System%20Security-2E86C1?logo=security&logoColor=white)  
+![Riscure Academy](https://img.shields.io/badge/Embedded-System%20Security-2E86C1?logo=security&logoColor=white)  
 ![CompTIA CySA+ (In Progress)](https://img.shields.io/badge/CompTIA-CySA%2B%20(In%20Progress)-EA1D25?logo=comptia&logoColor=white)  
 
 ---
