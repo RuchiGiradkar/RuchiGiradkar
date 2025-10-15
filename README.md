@@ -38,7 +38,7 @@ My capstone project covered Vulnerability Assessment, Penetration Testing (VAPT)
 - CompTIA A+
 - CompTIA Security+
 - Embedded System Security - Riscure Academy
-- CompTIA CySA+ (in progress)
+- CompTIA CySA+
 
 ---
 
