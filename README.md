@@ -5,7 +5,7 @@ My capstone project covered Vulnerability Assessment, Penetration Testing (VAPT)
 
 - Continental Automotive — hands-on experience applying ISO/SAE 21434 and TARA methodology to secure automotive systems.
 - Bosch (Master’s thesis) — designed a Digital Twin–based Intrusion Detection System for Industry 4.0 connected sensors.
-- Currently expanding expertise in IT Cybersecurity, SOC operations, SIEM tooling, and Cloud Security.
+- Currently expanding expertise in IT Cybersecurity,GRC, SIEM tooling, and Cloud Security.
 
 ---
 
