@@ -1,6 +1,6 @@
 # Ruchi Giradkar
 
-Cybersecurity Analyst | Vulnerability Assessment and Penetration Testing | Digital Forensics | Governance Risk and Compliance | Automotive and IT Security  
+Cybersecurity Analyst | Automotive and IT Security | Vulnerability Assessment and Penetration Testing | Digital Forensics | Governance Risk and Compliance
 
 Location Germany  
 Degree Master of Engineering in Mechatronic and Cyber Physical Systems  
