@@ -47,7 +47,7 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ## Featured Cybersecurity Projects
 
-### Capstone Project  
+### Capstone Project – VAPT & Forensic Analysis 
 Vulnerability Assessment | Penetration Testing | Digital Forensics  
 
 This project demonstrates an end to end offensive and defensive security workflow following real world security and incident response practices.
