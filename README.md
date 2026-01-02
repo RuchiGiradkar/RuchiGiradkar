@@ -141,9 +141,6 @@ https://www.linkedin.com/in/ruchi-giradkar/
 Portfolio  
 https://ruchigiradkar.github.io  
 
-Email  
-ruchigiradkar@gmail.com  
-
 ---
 
 ## Recruiter Note
