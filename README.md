@@ -142,7 +142,3 @@ Portfolio
 https://ruchigiradkar.github.io  
 
 ---
-
-## Note
-
-Hands on cybersecurity experience with a strong understanding of attacker behavior, defensive controls, compliance requirements, and real world engineering constraints, applied across security operations, risk management, and long term cybersecurity maturity.
