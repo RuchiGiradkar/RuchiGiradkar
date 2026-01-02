@@ -31,7 +31,7 @@ Key responsibilities and contributions
 ---
 
 ### Bosch Master Thesis  
-Digital Twin Based Intrusion Detection System | Industry 4.0  
+Digital Twin-based Intrusion Detection System for Industry 4.0 Connected Sensor  
 
 Key responsibilities and contributions  
 • Designed and implemented a Digital Twin based intrusion detection system for connected sensor environments  
