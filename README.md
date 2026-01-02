@@ -143,6 +143,6 @@ https://ruchigiradkar.github.io
 
 ---
 
-## Recruiter Note
+## Note
 
-This profile represents a cybersecurity professional who understands attacker behavior, defensive controls, compliance requirements, and engineering realities. I am open to opportunities where I can contribute to security operations, risk management, and long term cybersecurity maturity.
+Hands on cybersecurity experience with a strong understanding of attacker behavior, defensive controls, compliance requirements, and real world engineering constraints, applied across security operations, risk management, and long term cybersecurity maturity.
