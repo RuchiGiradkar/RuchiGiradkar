@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Cybersecurity Analyst with **3+ years of hands-on experience** across **enterprise IT security, security operations (SOC), incident response, vulnerability management, and automotive cybersecurity**. I work across the **full cybersecurity lifecycle**—from threat modeling and attack surface analysis to zero-day response, forensic investigation, and risk-based remediation.
+Cybersecurity Analyst with **3+ years of hands-on experience** across **enterprise IT security, security operations (SOC), incident response, vulnerability management, and automotive cybersecurity**. I work across the **full cybersecurity lifecycle** from threat modeling and attack surface analysis to zero-day response, forensic investigation, and risk-based remediation.
 
 I combine a **strong engineering foundation** with **practical, execution-focused security work**, including:
 - real-world incident response simulations,
