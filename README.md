@@ -5,7 +5,7 @@
 📍 Germany  
 🎓 Master of Engineering - Mechatronic & Cyber-Physical Systems
 🎓 Bachelor of Engineering (B.Eng.) in Electronics and Telecommunication
-📜 CompTIA CySA+ | CompTIA Security+ | CompTIA A+
+📜 CompTIA CySA+ | CompTIA Security+ | CompTIA A+ | Embedded Systems Security (Riscure Academy)
 
 ---
 
