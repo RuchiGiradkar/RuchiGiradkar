@@ -2,10 +2,14 @@
 
 **Cybersecurity Analyst | Security Operations & Incident Response | Vulnerability Management | Digital Forensics | GRC**
 
-📍 Germany  
-🎓 Master of Engineering - Mechatronic & Cyber-Physical Systems
-🎓 Bachelor of Engineering (B.Eng.) in Electronics and Telecommunication
-📜 CompTIA CySA+ | CompTIA Security+ | CompTIA A+ | Embedded Systems Security (Riscure Academy)
+📍 **Germany**
+
+🎓 **Education**  
+- Master of Engineering (M.Eng.) – Mechatronic & Cyber-Physical Systems  
+- Bachelor of Engineering (B.Eng.) – Electronics and Telecommunication Engineering  
+
+📜 **Certifications**  
+CompTIA CySA+ | CompTIA Security+ | CompTIA A+ | Embedded Systems Security (Riscure Academy)
 
 ---
 
