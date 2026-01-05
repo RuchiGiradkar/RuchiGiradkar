@@ -164,7 +164,7 @@ Git | GitLab | SVN | Jira
 - CompTIA Cybersecurity Analyst (CySA+)  
 - CompTIA Security+  
 - CompTIA A+  
-- Embedded Systems Security – Riscure Academy  
+- Embedded Systems Security - Riscure Academy  
 
 ---
 
