@@ -35,7 +35,7 @@ My work emphasizes **measurable risk reduction**, **clear security communication
 
 ---
 
-### Bosch – Master’s Thesis  
+### Bosch - Master’s Thesis  
 **Digital Twin–Based Intrusion Detection System (Industry 4.0)**
 
 - Designed and implemented a **Digital Twin–based IDS** for connected sensor environments
@@ -51,7 +51,7 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ## Featured Cybersecurity Projects
 
-### AIG “Shields Up” – Cybersecurity Job Simulation (Forage, Jan 2026)  
+### AIG “Shields Up” - Cybersecurity Job Simulation (Forage, Jan 2026)  
 **Security Operations | Zero-Day Response | Incident Response | Ransomware Recovery**
 
 Simulated real-world work performed by an **Information Security Analyst** within a Cyber & Information Security team.
@@ -74,7 +74,7 @@ Simulated real-world work performed by an **Information Security Analyst** withi
   - patching and mitigation steps
   - monitoring and escalation guidance
 
-**Ransomware Recovery – Controlled Lab Exercise**
+**Ransomware Recovery - Controlled Lab Exercise**
 - Recovered encrypted archive access using Python (`zipfile.ZipFile`)
 - Automated password discovery using a controlled wordlist
 - Demonstrated disciplined recovery and defensive automation practices
@@ -87,7 +87,7 @@ https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation/edi
 
 ---
 
-### Capstone Project – VAPT & Digital Forensics  
+### Capstone Project - VAPT & Digital Forensics  
 **Vulnerability Assessment | Penetration Testing | Incident Response**
 
 - Identified **58 vulnerabilities** across lab systems
