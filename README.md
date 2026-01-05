@@ -1,144 +1,186 @@
 # Ruchi Giradkar
 
-Cybersecurity Analyst | Automotive and IT Security | Vulnerability Assessment and Penetration Testing | Digital Forensics | Governance Risk and Compliance
+**Cybersecurity Analyst | Security Operations & Incident Response | Vulnerability Management | Digital Forensics | GRC**
 
-Location Germany  
-Degree Master of Engineering in Mechatronic and Cyber Physical Systems  
-Certifications CompTIA CySA+ | CompTIA Security+ | CompTIA A+  
+📍 Germany  
+🎓 Master of Engineering – Mechatronic & Cyber-Physical Systems  
+📜 CompTIA CySA+ | CompTIA Security+ | CompTIA A+
 
 ---
 
 ## Professional Summary
 
-I am a Cybersecurity Analyst with more than three years of hands on experience across automotive cybersecurity, enterprise IT security, and offensive and defensive security operations. My work spans the complete cybersecurity lifecycle, from threat modeling and attack surface analysis to vulnerability exploitation, forensic investigation, and risk based remediation.
+Cybersecurity Analyst with **3+ years of hands-on experience** across **enterprise IT security, security operations (SOC), incident response, vulnerability management, and automotive cybersecurity**. I work across the **full cybersecurity lifecycle**—from threat modeling and attack surface analysis to zero-day response, forensic investigation, and risk-based remediation.
 
-I bring a strong engineering background combined with practical cybersecurity execution. My experience includes automotive cybersecurity aligned with ISO SAE 21434, enterprise vulnerability management, penetration testing, digital forensics, and governance risk and compliance. My projects focus on real world attack scenarios, measurable risk impact, and defensible mitigation strategies aligned with industry standards.
+I combine a **strong engineering foundation** with **practical, execution-focused security work**, including:
+- real-world incident response simulations,
+- vulnerability exploitation and containment,
+- digital forensics and recovery,
+- and governance, risk, and compliance aligned with industry frameworks.
+
+My work emphasizes **measurable risk reduction**, **clear security communication**, and **defensible mitigation strategies** aligned with NIST, ISO, and CISA guidance.
 
 ---
 
 ## Industry Experience
 
 ### Continental Automotive Technologies  
-Cybersecurity Analyst | Security and Privacy Specialist  
+**Cybersecurity Analyst | Security & Privacy**
 
-Key responsibilities and contributions  
-• Executed Threat Analysis and Risk Assessment aligned with ISO SAE 21434 across automotive systems  
-• Analyzed more than forty attack paths across vehicle architectures  
-• Prioritized cyber risks and tracked mitigation actions throughout the development lifecycle  
-• Translated technical security findings into actionable insights for engineering and supplier teams  
-• Strengthened the cybersecurity posture of safety critical automotive systems  
+- Performed **Threat Analysis and Risk Assessment (TARA)** aligned with **ISO/SAE 21434**
+- Analyzed **40+ attack paths** across automotive system architectures
+- Prioritized cyber risks and tracked mitigations across the product lifecycle
+- Translated technical findings into actionable inputs for engineering and suppliers
+- Strengthened cybersecurity posture of **safety-critical automotive systems**
 
 ---
 
-### Bosch Master Thesis  
-Digital Twin-based Intrusion Detection System for Industry 4.0 Connected Sensor  
+### Bosch – Master’s Thesis  
+**Digital Twin–Based Intrusion Detection System (Industry 4.0)**
 
-Key responsibilities and contributions  
-• Designed and implemented a Digital Twin based intrusion detection system for connected sensor environments  
-• Built containerized intrusion detection pipelines using Docker  
-• Simulated system behavior to detect anomalous and malicious activity  
-• Improved anomaly detection accuracy by approximately twenty five percent  
-• Implemented monitoring and visualization using Prometheus and Grafana  
+- Designed and implemented a **Digital Twin–based IDS** for connected sensor environments
+- Built containerized detection pipelines using **Docker**
+- Simulated system behavior to detect anomalous and malicious activity
+- Improved anomaly detection accuracy by **~25%**
+- Implemented monitoring and visualization using **Prometheus & Grafana**
 
-Repository  
-https://github.com/RuchiGiradkar/Digital-Twin-IDS  
+🔗 Repository:  
+https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ---
 
 ## Featured Cybersecurity Projects
 
-### Capstone Project – VAPT & Forensic Analysis 
-Vulnerability Assessment | Penetration Testing | Digital Forensics  
+### AIG “Shields Up” – Cybersecurity Job Simulation (Forage, Jan 2026)  
+**Security Operations | Zero-Day Response | Incident Response | Ransomware Recovery**
 
-This project demonstrates an end to end offensive and defensive security workflow following real world security and incident response practices.
+Simulated real-world work performed by an **Information Security Analyst** within a Cyber & Information Security team.
 
-Project outcomes  
-• Identified fifty eight vulnerabilities across lab systems  
-• Classified findings into high, medium, and low severity based on risk impact  
-• Executed controlled exploitation including SQL injection, cross site scripting, weak credential attacks, and SMB misconfigurations  
-• Conducted digital forensic investigations including evidence acquisition, validation, timeline reconstruction, and chain of custody preservation  
-• Documented risks and remediation strategies in a professional reporting format  
+**Key Capabilities Demonstrated**
+- Zero-day vulnerability triage using **CISA advisories**
+- Infrastructure impact analysis and ownership identification
+- Professional, targeted security communications
+- Ransomware recovery thinking using Python automation
+- Incident response and remediation prioritization
 
-Repository  
-https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic  
+**Zero-Day Vulnerability Response (Apache Log4j / Log4Shell)**
+- Analyzed **CISA-published zero-day advisories**
+- Assessed **remote code execution (RCE)** and ransomware risk
+- Conducted inventory-driven impact analysis (avoiding false positives)
+- Distinguished **Log4j vs Apache httpd**
+- Identified affected systems and ownership
+- Drafted a targeted remediation advisory with:
+  - risk framing
+  - patching and mitigation steps
+  - monitoring and escalation guidance
+
+**Ransomware Recovery – Controlled Lab Exercise**
+- Recovered encrypted archive access using Python (`zipfile.ZipFile`)
+- Automated password discovery using a controlled wordlist
+- Demonstrated disciplined recovery and defensive automation practices
+- Documented recovery steps per enterprise standards
+
+🔗 Repository:  
+https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation/edit/main/README.md
+
+> **Note:** All activities were performed in a controlled educational environment. No real systems were targeted.
 
 ---
 
-### Cybersecurity Process Audit Project  
-Governance Risk and Compliance | Security Controls | Risk Assessment  
+### Capstone Project – VAPT & Digital Forensics  
+**Vulnerability Assessment | Penetration Testing | Incident Response**
 
-Project outcomes  
-• Conducted structured cybersecurity process and control audits  
-• Mapped security controls against ISO IEC 27001 and the NIST Cybersecurity Framework  
-• Identified control gaps and remediation priorities  
-• Documented findings suitable for management and audit review  
+- Identified **58 vulnerabilities** across lab systems
+- Classified findings by **risk and business impact**
+- Performed controlled exploitation:
+  - SQL Injection
+  - Cross-Site Scripting (XSS)
+  - Weak credential attacks
+  - SMB misconfigurations
+- Conducted forensic investigations:
+  - evidence acquisition & validation
+  - timeline reconstruction
+  - chain of custody
+- Delivered professional remediation-focused reporting
 
-Repository  
-https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project  
+🔗 Repository:  
+https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic
+
+---
+
+### Cybersecurity Process Audit (GRC)
+**Governance | Risk Assessment | Security Controls**
+
+- Conducted structured cybersecurity audits
+- Mapped controls to **ISO/IEC 27001** and **NIST Cybersecurity Framework**
+- Identified control gaps and remediation priorities
+- Produced management- and audit-ready documentation
+
+🔗 Repository:  
+https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project
 
 ---
 
 ## Core Skills
 
-### Security Domains  
-• Vulnerability Assessment and Penetration Testing  
-• Digital Forensics and Evidence Handling  
-• Incident Response and Threat Investigation  
-• Threat Modeling and Risk Assessment using TARA and STRIDE  
-• Governance Risk and Compliance  
+### Security Domains
+- Security Operations (SOC)
+- Incident Response & Threat Investigation
+- Vulnerability Management & Remediation
+- Digital Forensics & Evidence Handling
+- Threat Modeling (TARA, STRIDE)
+- Governance, Risk & Compliance (GRC)
 
-### Frameworks and Standards  
-• ISO SAE 21434  
-• ISO IEC 27001  
-• NIST Cybersecurity Framework  
-• UN ECE R155  
-• OWASP Top 10  
-• MITRE ATT and CK  
+### Frameworks & Standards
+- ISO/SAE 21434  
+- ISO/IEC 27001  
+- NIST Cybersecurity Framework  
+- UN ECE R155  
+- OWASP Top 10  
+- MITRE ATT&CK  
 
-### Tools and Technologies  
+### Tools & Technologies
 
-Offensive security and assessment  
-• Nmap | Greenbone OpenVAS | Metasploit | Hydra | DVWA  
+**Assessment & Offensive Security**  
+Nmap | OpenVAS | Metasploit | Hydra | DVWA  
 
-Forensics and monitoring  
-• Autopsy | tcpdump | Wireshark  
+**Forensics & Monitoring**  
+Autopsy | Wireshark | tcpdump  
 
-Engineering and platforms  
-• Docker | Linux | Windows | Prometheus | Grafana  
+**Platforms & Engineering**  
+Linux | Windows | Docker | Prometheus | Grafana  
 
-Development and automation  
-• Python | Bash | PowerShell | SQL | Java  
+**Automation & Scripting**  
+Python | Bash | PowerShell | SQL | Java  
 
-Collaboration and workflow  
-• Git | GitLab | SVN | Jira  
+**Collaboration**  
+Git | GitLab | SVN | Jira  
 
 ---
 
 ## Certifications
 
-• CompTIA Cybersecurity Analyst CySA+  
-• CompTIA Security+  
-• CompTIA A+  
-• Embedded Systems Security | Riscure Academy  
+- CompTIA Cybersecurity Analyst (CySA+)  
+- CompTIA Security+  
+- CompTIA A+  
+- Embedded Systems Security – Riscure Academy  
 
 ---
 
 ## Professional Strengths
 
-• Strong engineering foundation combined with applied cybersecurity expertise  
-• Experience across automotive, IT, and industrial environments  
-• Proven ability to document, communicate, and justify security decisions  
-• International professional exposure across Germany, Japan, and India  
-• Fluent in English | Working knowledge of German | Certified proficiency in Japanese  
+- Strong engineering mindset with applied cybersecurity execution
+- Experience across **automotive, enterprise IT, and industrial systems**
+- Clear, defensible security documentation and communication
+- International exposure: **Germany | Japan | India**
+- Languages: **English (fluent)** | **German (working proficiency)** | **Japanese (certified)**
 
 ---
 
-## Contact Information
+## Contact
 
-LinkedIn  
-https://www.linkedin.com/in/ruchi-giradkar/  
+🔗 LinkedIn:  
+https://www.linkedin.com/in/ruchi-giradkar/
 
-Portfolio  
-https://ruchigiradkar.github.io  
-
----
+🌐 Portfolio:  
+https://ruchigiradkar.github.io
