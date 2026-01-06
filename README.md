@@ -56,7 +56,7 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ## Featured Cybersecurity Projects
 
-### AIG “Shields Up” - Cybersecurity Job Simulation (Jan 2026)  
+### AIG Shields Up - Cybersecurity Job Simulation (Jan 2026)  
 **Security Operations | Zero-Day Response | Incident Response | Ransomware Recovery**
 
 Simulated real-world work performed by an **Information Security Analyst** within a Cyber & Information Security team.
