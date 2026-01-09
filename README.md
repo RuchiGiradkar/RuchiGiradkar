@@ -54,62 +54,35 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ---
 
-## Featured Cybersecurity Projects
+## SECURITY ENGAGEMENTS & LAB EXPERIENCE
 
-### AIG Shields Up - Cybersecurity Job Simulation (Jan 2026)  
-**Security Operations | Zero-Day Response | Incident Response | Ransomware Recovery**
+• **Zero-Day Incident Response & Ransomware Recovery**  
+  **Incident Response | Zero-Day Vulnerability Management | Ransomware Recovery | Risk Assessment | Python Automation**  
+  - Led structured incident response activities for **critical zero-day vulnerabilities** (e.g., Log4Shell), including **asset scoping, business impact analysis, and remediation prioritization**.  
+  - Executed **controlled ransomware recovery exercises** using Python-based automation, demonstrating disciplined recovery validation, containment thinking, and incident documentation aligned with enterprise IR playbooks.
 
-Simulated real-world work performed by an **Information Security Analyst** within a Cyber & Information Security team.
-
-**Key Capabilities Demonstrated**
-- Zero-day vulnerability triage using **CISA advisories**
-- Infrastructure impact analysis and ownership identification
-- Professional, targeted security communications
-- Ransomware recovery thinking using Python automation
-- Incident response and remediation prioritization
-
-**Zero-Day Vulnerability Response (Apache Log4j / Log4Shell)**
-- Analyzed **CISA-published zero-day advisories**
-- Assessed **remote code execution (RCE)** and ransomware risk
-- Conducted inventory-driven impact analysis (avoiding false positives)
-- Distinguished **Log4j vs Apache httpd**
-- Identified affected systems and ownership
-- Drafted a targeted remediation advisory with:
-  - risk framing
-  - patching and mitigation steps
-  - monitoring and escalation guidance
-
-**Ransomware Recovery - Controlled Lab Exercise**
-- Recovered encrypted archive access using Python (`zipfile.ZipFile`)
-- Automated password discovery using a controlled wordlist
-- Demonstrated disciplined recovery and defensive automation practices
-- Documented recovery steps per enterprise standards
-
-🔗 Repository:  
-https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation/edit/main/README.md
-
-> **Note:** All activities were performed in a controlled educational environment. No real systems were targeted.
+  **GitHub Repository:**  
+  🔗 https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation
 
 ---
 
-### Capstone Project - VAPT & Digital Forensics  
-**Vulnerability Assessment | Penetration Testing | Incident Response**
+• **Vulnerability Assessment, Penetration Testing & Digital Forensics**  
+  **Vulnerability Assessment | Penetration Testing | Digital Forensics | Threat Analysis | Evidence Handling**  
+  - Performed **end-to-end VAPT engagements** across lab-based enterprise environments, identifying and validating **high-risk security weaknesses** such as **SQL Injection, XSS, weak authentication, and SMB misconfigurations**.  
+  - Supported remediation through **forensic evidence analysis**, timeline reconstruction, and impact-driven reporting.
 
-- Identified **58 vulnerabilities** across lab systems
-- Classified findings by **risk and business impact**
-- Performed controlled exploitation:
-  - SQL Injection
-  - Cross-Site Scripting (XSS)
-  - Weak credential attacks
-  - SMB misconfigurations
-- Conducted forensic investigations:
-  - evidence acquisition & validation
-  - timeline reconstruction
-  - chain of custody
-- Delivered professional remediation-focused reporting
+  **GitHub Repository:**  
+  🔗 https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic
 
-🔗 Repository:  
-https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic
+---
+
+• **Cybersecurity Governance, Risk & Compliance (GRC) Audit**  
+  **GRC | ISO/IEC 27001 | NIST CSF | Control Assessment | Risk & Compliance**  
+  - Conducted **cybersecurity control assessments and gap analyses** aligned with **ISO/IEC 27001** and the **NIST Cybersecurity Framework**.  
+  - Evaluated technical and procedural controls, identified compliance gaps, and produced **audit-ready documentation** supporting risk management, governance maturity, and regulatory readiness.
+
+  **GitHub Repository:**  
+  🔗 https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project
 
 ---
 
