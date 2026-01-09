@@ -56,7 +56,7 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ## SECURITY ENGAGEMENTS & LAB EXPERIENCE
 
-• **Zero-Day Incident Response & Ransomware Recovery**  
+**Zero-Day Incident Response & Ransomware Recovery**  
   **Incident Response | Zero-Day Vulnerability Management | Ransomware Recovery | Risk Assessment | Python Automation**  
   - Led structured incident response activities for **critical zero-day vulnerabilities** (e.g., Log4Shell), including **asset scoping, business impact analysis, and remediation prioritization**.  
   - Executed **controlled ransomware recovery exercises** using Python-based automation, demonstrating disciplined recovery validation, containment thinking, and incident documentation aligned with enterprise IR playbooks.
@@ -66,7 +66,7 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ---
 
-• **Vulnerability Assessment, Penetration Testing & Digital Forensics**  
+**Vulnerability Assessment, Penetration Testing & Digital Forensics**  
   **Vulnerability Assessment | Penetration Testing | Digital Forensics | Threat Analysis | Evidence Handling**  
   - Performed **end-to-end VAPT engagements** across lab-based enterprise environments, identifying and validating **high-risk security weaknesses** such as **SQL Injection, XSS, weak authentication, and SMB misconfigurations**.  
   - Supported remediation through **forensic evidence analysis**, timeline reconstruction, and impact-driven reporting.
@@ -76,27 +76,14 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 ---
 
-• **Cybersecurity Governance, Risk & Compliance (GRC) Audit**  
+**Cybersecurity Governance, Risk & Compliance (GRC) Audit**  
   **GRC | ISO/IEC 27001 | NIST CSF | Control Assessment | Risk & Compliance**  
   - Conducted **cybersecurity control assessments and gap analyses** aligned with **ISO/IEC 27001** and the **NIST Cybersecurity Framework**.  
   - Evaluated technical and procedural controls, identified compliance gaps, and produced **audit-ready documentation** supporting risk management, governance maturity, and regulatory readiness.
 
   **GitHub Repository:**  
   🔗 https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project
-
----
-
-### Cybersecurity Process Audit (GRC)
-**Governance | Risk Assessment | Security Controls**
-
-- Conducted structured cybersecurity audits
-- Mapped controls to **ISO/IEC 27001** and **NIST Cybersecurity Framework**
-- Identified control gaps and remediation priorities
-- Produced management- and audit-ready documentation
-
-🔗 Repository:  
-https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project
-
+  
 ---
 
 ## Core Skills
