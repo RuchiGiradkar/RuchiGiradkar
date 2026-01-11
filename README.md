@@ -1,6 +1,6 @@
 # Ruchi Giradkar
 
-**Cybersecurity Analyst | Security Operations & Incident Response | Vulnerability Management | Digital Forensics | GRC**
+**Cybersecurity Analyst | Security Operations & Incident Response | Vulnerability Management | GRC | Digital Forensics **
 
 📍 **Germany**
 
