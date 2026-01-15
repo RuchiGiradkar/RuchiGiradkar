@@ -5,7 +5,7 @@
 📍 **Germany**
 
 🎓 **Education**  
-- Master of Engineering (M.Eng.) - Mechatronic & Cyber-Physical Systems  
+- Master of Engineering (M.Eng.) - Mechatronic & Cyber-Physical Systems (Deggendorf Institute of Technology, Germany)   
 - Bachelor of Engineering (B.Eng.) - Electronics and Telecommunication Engineering  
 
 📜 **Certifications**  
