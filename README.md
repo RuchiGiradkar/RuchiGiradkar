@@ -90,11 +90,10 @@ https://github.com/RuchiGiradkar/Digital-Twin-IDS
 
 **Zero Trust Architecture | Identity-Centric Security | Cloud & On-Premises | Data Protection | OT Security | Detection & Response**
 
-Designed an enterprise-scale Zero Trust security architecture for a globally distributed hybrid environment, addressing identity-driven threats across cloud, on-premises, SaaS, remote users, and operational technology (OT).
+- Designed an enterprise-scale Zero Trust security architecture for a globally distributed hybrid environment, addressing identity-driven threats across cloud, on-premises, SaaS, remote users, and operational technology (OT).
+- Defined architecture-level access enforcement, data protection, and centralized detection and response with a phased five-year roadmap prioritizing visibility, blast-radius reduction, and operational stability.
 
-Defined architecture-level access enforcement, data protection, and centralized detection and response with a phased five-year roadmap prioritizing visibility, blast-radius reduction, and operational stability.
-
-## GitHub Repository
+  **GitHub Repository:** 
 🔗 https://github.com/RuchiGiradkar/zero-trust-security-architecture-case-study
 
 ---
