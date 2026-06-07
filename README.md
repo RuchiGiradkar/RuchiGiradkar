@@ -182,4 +182,3 @@ Cummins College of Engineering for Women, India
 
 ---
 
-> *"Security is not just about finding vulnerabilities, it's about understanding risk, prioritizing mitigation, and enabling resilient business operations."*
