@@ -158,8 +158,8 @@ Cummins College of Engineering for Women, India
 ## 🌍 Languages
 
 * English (Fluent)
-* German (Working Proficiency)
-* Japanese (Certified)
+* German - (Working Proficiency) B1 (in Progress)
+* Japanese - JLPT N3 Certified (Intermediate level)
 
 ---
 
