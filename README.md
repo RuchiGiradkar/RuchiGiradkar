@@ -1,3 +1,4 @@
+```markdown
 # Hi, I'm Ruchi Giradkar 👋
 
 ### Cybersecurity Analyst | Vulnerability Management | GRC | Incident Response | Digital Forensics | Cloud Security
@@ -14,12 +15,12 @@ Experienced in identifying security risks, performing threat and vulnerability a
 
 ### Master of Engineering (M.Eng.)
 
-**Mechatronic & Cyber-Physical Systems**
+**Mechatronic & Cyber-Physical Systems**  
 Deggendorf Institute of Technology, Germany
 
 ### Bachelor of Engineering (B.Eng.)
 
-**Electronics & Telecommunication Engineering**
+**Electronics & Telecommunication Engineering**  
 Cummins College of Engineering for Women, India
 
 ---
@@ -50,15 +51,16 @@ Cummins College of Engineering for Women, India
 
 ## 🚀 Security Projects
 
-| Project                                            | Focus Area                                                        | Technologies                                                             | Repository                                                                                    |
-| -------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Digital Twin IDS                                   | Intrusion Detection & OT Security                                 | Docker, Python, Prometheus, Grafana                                      | [Repository](https://github.com/RuchiGiradkar/Digital-Twin-IDS)                               |
-| Zero-Day Incident Response & Ransomware Recovery   | Incident Response & Vulnerability Management                      | Python, Log4Shell Analysis, Risk Assessment                              | [Repository](https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation)    |
-| VAPT & Digital Forensics                           | Vulnerability Assessment, Penetration Testing & Digital Forensics | Nessus, OpenVAS, Nmap, Metasploit, Hydra, Autopsy                        | [Repository](https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic)                 |
-| OWASP ZAP Web Application Vulnerability Assessment | Application Security Testing, DAST & Web Vulnerability Assessment | OWASP ZAP, AJAX Spider, Active Scan, SQL Injection Analysis, XSS Testing | [Repository](https://github.com/RuchiGiradkar/owasp-zap-web-vulnerability-assessment)         |
-| Cybersecurity GRC Audit                            | Governance, Risk & Compliance                                     | ISO 27001, NIST CSF, Control Assessment                                  | [Repository](https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project) |
-| Microsoft Azure Cloud Security Risk Assessment     | Cloud Security, Risk Assessment & GRC                             | Azure VM, Azure NSG, Azure Monitor, Windows Server                       | [Repository](https://github.com/RuchiGiradkar/Azure-Cloud-Security-GRC-Assessment/tree/main)  |
-| Zero Trust Security Architecture                   | Enterprise Security Architecture                                  | IAM, Cloud Security, OT Security, Detection & Response                   | [Repository](https://github.com/RuchiGiradkar/zero-trust-security-architecture-case-study)    |
+| Project | Focus Area | Technologies | Repository |
+| --- | --- | --- | --- |
+| Digital Twin IDS | Intrusion Detection & OT Security | Docker, Python, Prometheus, Grafana | [Repository](https://github.com/RuchiGiradkar/Digital-Twin-IDS) |
+| Zero-Day Incident Response & Ransomware Recovery | Incident Response & Vulnerability Management | Python, Log4Shell Analysis, Risk Assessment | [Repository](https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation) |
+| Linux Log Analysis, Detection Automation & SIEM Investigation | SOC Analysis, Threat Hunting, Detection Engineering, Security Monitoring & Incident Investigation | Splunk Enterprise, SIEM, Linux Authentication Logs, Python, MITRE ATT&CK, Brute-Force Detection, Log Analysis, CSV Reporting | [Repository](https://github.com/RuchiGiradkar/linux-log-analysis-automation-siem) |
+| VAPT & Digital Forensics | Vulnerability Assessment, Penetration Testing & Digital Forensics | Nessus, OpenVAS, Nmap, Metasploit, Hydra, Autopsy | [Repository](https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic) |
+| OWASP ZAP Web Application Vulnerability Assessment | Application Security Testing, DAST & Web Vulnerability Assessment | OWASP ZAP, AJAX Spider, Active Scan, SQL Injection Analysis, XSS Testing | [Repository](https://github.com/RuchiGiradkar/owasp-zap-web-vulnerability-assessment) |
+| Cybersecurity GRC Audit | Governance, Risk & Compliance | ISO 27001, NIST CSF, Control Assessment | [Repository](https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project) |
+| Microsoft Azure Cloud Security Risk Assessment | Cloud Security, Risk Assessment & GRC | Azure VM, Azure NSG, Azure Monitor, Windows Server | [Repository](https://github.com/RuchiGiradkar/Azure-Cloud-Security-GRC-Assessment/tree/main) |
+| Zero Trust Security Architecture | Enterprise Security Architecture | IAM, Cloud Security, OT Security, Detection & Response | [Repository](https://github.com/RuchiGiradkar/zero-trust-security-architecture-case-study) |
 
 ---
 
@@ -69,8 +71,10 @@ Cummins College of Engineering for Women, India
 * Improved IDS anomaly detection accuracy by approximately 25%.
 * Conducted web application security assessments using OWASP ZAP, identifying SQL Injection, Cross-Site Scripting, security header weaknesses, and cookie misconfigurations in controlled training environments.
 * Performed manual and automated DAST assessments and translated technical findings into risk-based remediation recommendations.
-* Experience across Automotive, Enterprise IT, Industrial Control Systems, Cloud, and Application Security environments.
-* Hands-on experience in Vulnerability Management, Incident Response, Digital Forensics, Cloud Security, Application Security, and Security Risk Assessment.
+* Performed Linux authentication log analysis to detect failed logins, invalid user activity, privileged account targeting, brute-force indicators, and suspicious authentication patterns.
+* Built Python-based detection automation and validated findings using Splunk Enterprise SIEM searches, statistics, and visualizations.
+* Experience across Automotive, Enterprise IT, Industrial Control Systems, Cloud, Application Security, and SOC investigation environments.
+* Hands-on experience in Vulnerability Management, Incident Response, Digital Forensics, Cloud Security, Application Security, Detection Engineering, SIEM Investigation, and Security Risk Assessment.
 * Strong background in technical-to-business risk communication and security documentation.
 
 ---
@@ -87,6 +91,9 @@ Cummins College of Engineering for Women, India
 * Digital Forensics & Evidence Handling
 * Threat Modeling
 * Security Operations
+* SOC Monitoring
+* Detection Engineering
+* Threat Hunting
 
 ### Frameworks & Standards
 
@@ -118,6 +125,19 @@ Cummins College of Engineering for Women, India
 * Metasploit
 * Hydra
 * DVWA
+
+### SIEM, SOC & Detection Engineering
+
+* Splunk Enterprise
+* SIEM Investigation
+* Log Analysis
+* Linux Authentication Logs
+* Security Event Monitoring
+* Brute-Force Detection
+* Authentication Failure Analysis
+* Threat Hunting
+* Security Reporting
+* MITRE ATT&CK Mapping
 
 ### Digital Forensics & Monitoring
 
@@ -180,10 +200,15 @@ Cummins College of Engineering for Women, India
 * Incident Response
 * Governance, Risk & Compliance
 * Security Automation
+* SOC Operations
+* SIEM Investigation
+* Detection Engineering
+* Threat Hunting
 
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/ruchi-giradkar](http://www.linkedin.com/in/ruchi-giradkar)
-* Portfolio Website: https://ruchigiradkar.github.io/
+* Portfolio Website: [https://ruchigiradkar.github.io/](https://ruchigiradkar.github.io/)
+```
