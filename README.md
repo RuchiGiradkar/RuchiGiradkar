@@ -50,16 +50,17 @@ Cummins College of Engineering for Women, India
 
 ## 🚀 Security Projects
 
-| Project                                                       | Focus Area                                                                                        | Technologies                                                                                                                                            | Repository                                                                                    |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Digital Twin IDS                                              | Intrusion Detection & OT Security                                                                 | Docker, Python, Prometheus, Grafana                                                                                                                     | [Repository](https://github.com/RuchiGiradkar/Digital-Twin-IDS)                               |
-| Zero-Day Incident Response & Ransomware Recovery              | Incident Response, Vulnerability Management & Cyber Resilience                                    | Python, Log4Shell Analysis, Vulnerability Assessment, Risk Analysis, Incident Response                                                                  | [Repository](https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation)    |
-| Linux Log Analysis, Detection Automation & SIEM Investigation | SOC Analysis, Threat Hunting, Detection Engineering, Security Monitoring & Incident Investigation | Splunk Enterprise, SIEM, Linux Authentication Logs, Python, MITRE ATT&CK, Brute-Force Detection, Log Analysis, Security Event Monitoring, CSV Reporting | [Repository](https://github.com/RuchiGiradkar/linux-log-analysis-automation-siem)             |
-| VAPT & Digital Forensics                                      | Vulnerability Assessment, Penetration Testing & Digital Forensics                                 | Nessus, OpenVAS, Nmap, Metasploit, Hydra, Autopsy                                                                                                       | [Repository](https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic)                 |
-| OWASP ZAP Web Application Vulnerability Assessment            | Application Security Testing, DAST & Web Vulnerability Assessment                                 | OWASP ZAP, AJAX Spider, Active Scan, SQL Injection Analysis, XSS Testing                                                                                | [Repository](https://github.com/RuchiGiradkar/owasp-zap-web-vulnerability-assessment)         |
-| Cybersecurity GRC Audit                                       | Governance, Risk & Compliance                                                                     | ISO 27001, NIST CSF, Control Assessment, Risk Management                                                                                                | [Repository](https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project) |
-| Microsoft Azure Cloud Security Risk Assessment                | Cloud Security, Risk Assessment & GRC                                                             | Azure VM, Azure NSG, Azure Monitor, Windows Server, Cloud Security Controls                                                                             | [Repository](https://github.com/RuchiGiradkar/Azure-Cloud-Security-GRC-Assessment/tree/main)  |
-| Zero Trust Security Architecture                              | Enterprise Security Architecture & Security Strategy                                              | IAM, Zero Trust, Cloud Security, OT Security, Detection & Response                                                                                      | [Repository](https://github.com/RuchiGiradkar/zero-trust-security-architecture-case-study)    |
+| Project                                                       | Focus Area                                                                                        | Technologies                                                                                                                                            | Repository                                                                                      |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Digital Twin IDS                                              | Intrusion Detection & OT Security                                                                 | Docker, Python, Prometheus, Grafana                                                                                                                     | [Repository](https://github.com/RuchiGiradkar/Digital-Twin-IDS)                                 |
+| Zero-Day Incident Response & Ransomware Recovery              | Incident Response, Vulnerability Management & Cyber Resilience                                    | Python, Log4Shell Analysis, Vulnerability Assessment, Risk Analysis, Incident Response                                                                  | [Repository](https://github.com/RuchiGiradkar/AIG-Shields-Up-Cybersecurity-Job-Simulation)      |
+| Linux Log Analysis, Detection Automation & SIEM Investigation | SOC Analysis, Threat Hunting, Detection Engineering, Security Monitoring & Incident Investigation | Splunk Enterprise, SIEM, Linux Authentication Logs, Python, MITRE ATT&CK, Brute-Force Detection, Log Analysis, Security Event Monitoring, CSV Reporting | [Repository](https://github.com/RuchiGiradkar/linux-log-analysis-automation-siem)               |
+| VAPT & Digital Forensics                                      | Vulnerability Assessment, Penetration Testing & Digital Forensics                                 | Nessus, OpenVAS, Nmap, Metasploit, Hydra, Autopsy                                                                                                       | [Repository](https://github.com/RuchiGiradkar/Capstone-Project-VAPT-Forensic)                   |
+| Network Scanning & Host Enumeration with Nmap                 | Network Security Assessment, Host Discovery & Vulnerability Assessment                            | Nmap, NSE Scripts, Service Enumeration, OS Fingerprinting, TCP/UDP Analysis, Port Scanning, Network Reconnaissance, Vulnerability Validation            | [Repository](https://github.com/RuchiGiradkar/network-scanning-host-enumeration-nmap/tree/main) |
+| OWASP ZAP Web Application Vulnerability Assessment            | Application Security Testing, DAST & Web Vulnerability Assessment                                 | OWASP ZAP, AJAX Spider, Active Scan, SQL Injection Analysis, XSS Testing                                                                                | [Repository](https://github.com/RuchiGiradkar/owasp-zap-web-vulnerability-assessment)           |
+| Cybersecurity GRC Audit                                       | Governance, Risk & Compliance                                                                     | ISO 27001, NIST CSF, Control Assessment, Risk Management                                                                                                | [Repository](https://github.com/RuchiGiradkar/Cybersecurity-Process-Audit-GRC-Sample-Project)   |
+| Microsoft Azure Cloud Security Risk Assessment                | Cloud Security, Risk Assessment & GRC                                                             | Azure VM, Azure NSG, Azure Monitor, Windows Server, Cloud Security Controls                                                                             | [Repository](https://github.com/RuchiGiradkar/Azure-Cloud-Security-GRC-Assessment/tree/main)    |
+| Zero Trust Security Architecture                              | Enterprise Security Architecture & Security Strategy                                              | IAM, Zero Trust, Cloud Security, OT Security, Detection & Response                                                                                      | [Repository](https://github.com/RuchiGiradkar/zero-trust-security-architecture-case-study)      |
 
 ---
 
@@ -68,6 +69,7 @@ Cummins College of Engineering for Women, India
 * 3+ years of cybersecurity experience.
 * Analyzed 40+ attack paths using TARA methodology.
 * Improved IDS anomaly detection accuracy by approximately 25%.
+* Conducted network discovery, service enumeration, OS fingerprinting, TCP/UDP analysis, and vulnerability assessment using Nmap and NSE scripts; validated potential vulnerabilities and developed risk-based remediation recommendations to improve network security posture.
 * Conducted web application security assessments using OWASP ZAP, identifying SQL Injection, Cross-Site Scripting, security header weaknesses, and cookie misconfigurations in controlled environments.
 * Performed manual and automated DAST assessments and translated technical findings into risk-based remediation recommendations.
 * Investigated Linux authentication logs to identify brute-force attacks, invalid user activity, authentication failures, privileged account targeting, and suspicious login behavior.
@@ -93,6 +95,7 @@ Cummins College of Engineering for Women, India
 * Cloud Security Risk Assessment
 * Application Security Testing
 * Digital Forensics & Evidence Handling
+* Network Security Assessment
 
 ### Frameworks & Standards
 
@@ -115,12 +118,18 @@ Cummins College of Engineering for Women, India
 
 ### Assessment & Offensive Security
 
+* Nmap
+* Nmap Scripting Engine (NSE)
+* Network Reconnaissance
+* Host Discovery
+* Service Enumeration
+* OS Fingerprinting
+* TCP/UDP Analysis
 * OWASP ZAP
 * DAST
 * Web Application Security Testing
 * Nessus
 * OpenVAS
-* Nmap
 * Metasploit
 * Hydra
 * DVWA
@@ -200,6 +209,7 @@ Cummins College of Engineering for Women, India
 * Cloud Security
 * Application Security
 * Security Risk Assessment
+* Network Security Assessment
 * Digital Forensics
 * Incident Response
 * Governance, Risk & Compliance
