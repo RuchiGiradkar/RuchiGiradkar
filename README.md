@@ -1,6 +1,6 @@
 # Hi, I'm Ruchi Giradkar 👋
 
-### Cybersecurity Analyst  | Security Engineering | GRC | Vulnerability Management | Threat Modeling | Application Security | Cloud Security | Security Operations
+### Cybersecurity Analyst  | Security Engineering | GRC | Vulnerability Management | Threat Modeling | Application Security | Security Operations | Cloud Security
 
 📍 Germany
 
